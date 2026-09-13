@@ -4,6 +4,10 @@ A simple, lightweight Python GUI tool to merge separate video and audio files (e
 
 This tool uses FFmpeg to perform a **lossless and incredibly fast merge** (it copies the streams without re-encoding them). It also features a smart workaround for the common Windows `FFmpeg` PATH issue by using the `imageio-ffmpeg` Python package.
 
+## 📸 Screenshot
+
+![Video & Audio Merger UI](Screenshot_50.png)
+
 ## ✨ Features
 
 - **Simple GUI:** Built with Tkinter, no command-line knowledge required.
