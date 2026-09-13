@@ -27,3 +27,4 @@ This tool uses FFmpeg to perform a **lossless and incredibly fast merge** (it co
    ```bash
    git clone https://github.com/Sibany/Python-Video-Audio-Merger.git
    cd Python-Video-Audio-Merger
+   python Python-Video-Audio-Merger.py
